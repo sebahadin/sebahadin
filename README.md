@@ -8,6 +8,5 @@ I'm **Sebahadin Denur**, a passionate student at NYU studying **Computer Science
 - 💬 Ask me about: Python, C++, data visualization, and my latest projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebahadin-denur-435ba1283)
 - 🌐 Check out my portfolio: [Portfolio Website](https://sebahadin.github.io/Sebahadin_Portfolio/)
-- ⚡ Fun fact: As a freshman student, I helped build a VR clothing store experience from scratch using Unity and C#!
 
 Thanks for stopping by — feel free to explore my repositories and connect!
