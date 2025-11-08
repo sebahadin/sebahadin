@@ -92,7 +92,7 @@ I'm a **Junior at New York University Abu Dhabi**, pursuing a **Bachelor of Scie
 <div align="center">
 
 ### 🔍 [File Search Engine](https://github.com/sebahadin)
-**Multithreaded Java Application with Design Patterns**
+**Multithreaded Java Applications**
 
 </div>
 
