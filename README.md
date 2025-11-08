@@ -164,6 +164,4 @@ I'm a **Junior at New York University Abu Dhabi**, pursuing a **Bachelor of Scie
 ### *"Great software is built one clean commit at a time."*
 
 
-⭐️ From [sebahadin](https://github.com/sebahadin)
-
 </div>
