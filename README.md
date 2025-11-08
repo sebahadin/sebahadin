@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 🎓 Computer Science major at NYU Abu Dhabi  
-⚙️ Skilled in backend systems, SQL optimization, and scalable full-stack apps  
+⚙️ Skilled in backend systems, working with SQL, and scalable full-stack apps  
 📈 Strong math and economics background applied to intelligent systems  
 🌍 Passionate about building reliable, efficient, and impactful software
 
