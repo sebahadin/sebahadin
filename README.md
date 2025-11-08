@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Sebahadin Denur
 
-### Software Engineer | Machine Learning Enthusiast | Building Intelligent Systems
+### Software Engineer | Machine Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebahadin-denur-435ba1283)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sebahadin.github.io/Sebahadin_Portfolio/)
