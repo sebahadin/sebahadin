@@ -144,21 +144,6 @@ I'm a **Junior at New York University Abu Dhabi**, pursuing a **Bachelor of Scie
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebahadin&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebahadin&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### *"Great software is built one clean commit at a time."*
